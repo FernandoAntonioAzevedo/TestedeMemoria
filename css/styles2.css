@@ -1,0 +1,111 @@
+body{
+	text-align: center;
+	padding-top: 3%;
+	margin: 0;
+}
+.bgColor{
+	 background-image: linear-gradient(to right, #004d4d, #1a001a);
+}
+.header{
+	text-align: center;
+	margin: 0 auto;
+	color:#ff3300 ;
+	font-family: sans-serif;
+	display: inline-block;
+	width: 30%;
+}
+.container{
+	background-color: rgba(255, 173, 153,0.5);
+	width: 670px;
+	margin: 0 auto;
+	padding: 5%;
+	border-radius: 12px;
+	display: inline-block;
+	padding: 30px;
+	vertical-align: middle;
+	text-align: center;
+	
+
+}
+
+.card{
+	width: 150px;
+	height: 150px;
+	background-image: linear-gradient(to right, #004d4d, #1a001a);
+	border-radius: 12px;
+	
+	
+}
+
+.clr{
+	background-color: red;
+	width: 150px;
+	height: 150px;
+	border-radius: 12px;
+	box-shadow: 2px 5px #888888;
+
+}
+.clr1{
+	background-color: blue;
+	width: 150px;
+	height: 150px;
+	border-radius: 12px;
+	box-shadow: 2px 5px #888888;
+
+
+}
+.clr2{
+	background-color: yellow;
+	width: 150px;
+	height: 150px;
+	border-radius: 12px;
+	box-shadow: 2px 5px #888888;
+	
+}
+.clr3{
+	background-color: green;
+	width: 150px;
+	height: 150px;
+	border-radius: 12px;
+	box-shadow: 2px 5px #888888;
+	
+}
+.clr4{
+	background-color: pink;
+	width: 150px;
+	height: 150px;
+	border-radius: 12px;
+	box-shadow: 2px 5px #888888;
+	
+}
+.clr5{
+	background-color: purple;
+	width: 150px;
+	height: 150px;
+	border-radius: 12px;
+	box-shadow: 2px 5px #888888;
+	
+}
+.hide{
+	display: none;
+}
+.face{
+	width: 150px;
+	height: 150px;
+	border-radius: 12px;
+	display: inline-block;
+	margin: 1%;
+}
+button{
+	background-color: rgba(255, 173, 153,0.5);
+	padding: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	color: #004d4d;
+	border:0;
+	border-right:1px solid white;
+	border-bottom:1px solid white;
+	border-radius: 12px;
+	font-weight: bold;
+	font-size: 24px;
+}
